@@ -1,4 +1,4 @@
-# 👋 Manuel Marín
+# 👋 Manuel Marin
 
 **Ingeniero Mecatrónico & Full Stack Developer** | Lima, Perú  
 *Fusionando el mundo físico y digital mediante soluciones robustas y escalables*
@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mí
 
-Ingeniero Mecatrónico egresado (2025-2) con experiencia en desarrollo **Full Stack**, **IoT**, **visión por computadora** y **robótica autónoma**. Actualmente trabajando como **Ingeniero Junior IoT** en **E2I**.
+Ingeniero Mecatrónico con experiencia en desarrollo **Full Stack**, **IoT**, **visión por computadora** y **robótica autónoma**. Actualmente trabajando como **Ingeniero Junior IoT** en **E2I**.
 
 Me apasiona crear soluciones que integren hardware y software, desde aplicaciones web escalables hasta sistemas autónomos complejos. Cuento con experiencia internacional (intercambio en RIT, USA) y he colaborado en proyectos de impacto real en industria y espacial.
 
