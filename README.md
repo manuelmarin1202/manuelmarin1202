@@ -113,9 +113,8 @@ Desarrollo Web | Sitio Corporativo
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelmarin1202&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/manuelmarin1202)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelmarin1202&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/manuelmarin1202)
+![GitHub Activity](https://img.shields.io/badge/GitHub-manuelmarin1202-181717?style=flat&logo=github)
+![Repositories](https://img.shields.io/badge/Repositorios%20Públicos-2-blue?style=flat)
 
 ---
 
