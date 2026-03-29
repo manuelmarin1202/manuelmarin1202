@@ -111,13 +111,6 @@ Desarrollo Web | Sitio Corporativo
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Activity](https://img.shields.io/badge/GitHub-manuelmarin1202-181717?style=flat&logo=github)
-![Repositories](https://img.shields.io/badge/Repositorios%20Públicos-2-blue?style=flat)
-
----
-
 ## 🎓 Educación
 
 **Bachiller en Ingeniería Mecatrónica**  
